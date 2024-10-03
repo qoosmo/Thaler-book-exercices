@@ -1,0 +1,6 @@
+[book]
+authors = ["qoosmo"]
+language = "en"
+multilingual = false
+src = "src"
+title = "command-line-book"
